@@ -1,6 +1,6 @@
 # My Reading Journal
 
-###  [GitHub PagesLink to my github portfolio:](https://github.com/donaldfletcher1)
+Link to [my github portfolio](https://github.com/donaldfletcher1)
 
 What growth mindset means to me is...
 
