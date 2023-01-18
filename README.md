@@ -2,14 +2,14 @@
 
 Link to [my github portfolio](https://github.com/donaldfletcher1)
 
-What growth mindset means to me is...
+What growth mindset means to me is to be persistent, resilient, and receptive
 
-## 3 reminders to stay in a growth mindset:
+##### **3 reminders to stay in a growth mindset:**
 
-1. Reminder 1
-2. Reminder 2
-3. Reminder 3
+1. >Stay Positive
+2. >Stay Committed
+3. >Enjoy Challenges
 
 
-![This is an image](https://stock.adobe.com/images/software-developer-programming-code-abstract-computer-script-code-programming-code-screen-of-software-developer-software-programming-work-time-code-text-written-and-created-entirely-by-myself/225161928).
+
 
