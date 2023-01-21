@@ -10,6 +10,13 @@ What growth mindset means to me is to be persistent, resilient, and receptive
 2. >Stay Committed
 3. >Enjoy Challenges
 
+## Table of contents
 
+### class 102 reading notes
+
+- [Reading one notes](./class102-readingnotes/reading-01-notes.md)
+- [Reading two notes](./class102-readingnotes/reading-02-notes.md)
+
+### class 201 reading notes
 
 
