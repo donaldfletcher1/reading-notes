@@ -19,6 +19,9 @@ What growth mindset means to me is to be persistent, resilient, and receptive
 - [Reading three notes](./class102-readingnotes/reading-03-notes.md)
 - [Reading four notes](./class102-readingnotes/reading-04-notes.md)
 - [Reading five notes](./class102-readingnotes/reading-05-notes.md)
+- [Reading six notes](./class102-readingnotes/reading-06-notes.md)
+- [Reading seven notes](./class102-readingnotes/reading-07-notes.md)
+- [Reading eight notes](./class102-readingnotes/reading-08-notes.md)
 
 ### class 201 reading notes
 
