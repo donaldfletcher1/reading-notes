@@ -12,7 +12,7 @@ What growth mindset means to me is to be persistent, resilient, and receptive
 
 ## Table of contents
 
-### class 102 reading notes
+### class 102 reading notes - Intro to Software Development
 
 - [Reading one notes](./class102-readingnotes/reading-01-notes.md)
 - [Reading two notes](./class102-readingnotes/reading-02-notes.md)
@@ -24,7 +24,7 @@ What growth mindset means to me is to be persistent, resilient, and receptive
 - [Reading eight notes](./class102-readingnotes/reading-08-notes.md)
 - [Reading nine notes](./class102-readingnotes/reading-09-notes.md)
 
-### class 201 reading notes 
+### class 201 reading notes - Foundations of Software 
 
 - [Reading one notes](./class201-readingnotes/reading-01-notes.md)
 - [Reading two notes](./class201-readingnotes/reading-02-notes.md)
@@ -42,4 +42,15 @@ What growth mindset means to me is to be persistent, resilient, and receptive
 - [Reading fourteen notes](./class201-readingnotes/reading-14-notes.md)
 - [Reading fifteen notes](./class201-readingnotes/reading-15-notes.md)
 
+### class 301 Reading notes - Intermediate Software
 
+
+
+
+
+
+
+
+
+
+### class 401 Reading Notes - Advanced Softwared Development
